@@ -6,3 +6,4 @@ postgres:17.6
 redis:8.2.1
 nginx:1.29.1
 bitnami/kafka:4.0.0
+drogonframework/drogon
