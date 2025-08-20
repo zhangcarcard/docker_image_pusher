@@ -1,1 +1,9 @@
+scratch
+alpine:3.22
+debian:trixie-slim
+oraclelinux:9-slim
+mysql:9.4.0
 postgres:17.6
+redis:8.2.1
+nginx:1.29.1
+bitnami/kafka:4.0.0
