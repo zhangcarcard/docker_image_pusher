@@ -10,5 +10,6 @@
 #bitnami/etcd:3.6.4
 #rabbitmq:4.1.3
 #memcached:1.6.39
-ceph/ceph:v16.2.5
-minio/minio:latest
+#ceph/ceph:v16.2.5
+#minio/minio:latest
+milvusdb/milvus:2.6-20251014-3d0ad8b6-amd64
