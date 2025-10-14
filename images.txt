@@ -12,4 +12,7 @@
 #memcached:1.6.39
 #ceph/ceph:v16.2.5
 #minio/minio:latest
-milvusdb/milvus:2.6-20251014-3d0ad8b6-amd64
+#milvusdb/milvus:2.6-20251014-3d0ad8b6-amd64
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.3
